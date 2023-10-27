@@ -13,10 +13,12 @@ I added a user interface using .NET port of Dear ImGui. Later on, I will change 
 
 ![image](https://github.com/varolomer/NewParticleSimulator/assets/42884775/81003f2e-194a-4f1d-9ae5-1f3caaa59ee6)
 
-## Problems with IMGUINET
-Placeholder
 ## Keyboard & Drawing
+When the app is in idling mode it will only draw the particles:
+![278778999-76312266-0b66-460e-8284-103a141699f5](https://github.com/varolomer/NewParticleSimulator/assets/42884775/414c9f77-d5d8-426b-b8c4-d1e9af96b52b)
 
-## Credits
-Placeholder
+When left shift key is pressed it will draw Lines (adj) as well:
+![TriStripsMin](https://github.com/varolomer/NewParticleSimulator/assets/42884775/f43e6576-0aee-4524-a539-ea893e6efa7a)
 
+Then left ctrl key is pressed it will draw Triangle Strips (adj) instead of lines:
+![TriStripsMin2](https://github.com/varolomer/NewParticleSimulator/assets/42884775/2778893c-3a5a-46d5-9cf2-a699f4800983)
