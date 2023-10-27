@@ -6,15 +6,13 @@
 ## Introduction
 This library is a product of studying "BoyBayKiller"s [Newtonian-Particle-Simulator](https://github.com/BoyBaykiller/Newtonian-Particle-Simulator). I will keep enhancing the library in terms of UI and buffer management while adding more primitives dynamically.
 
-Honestly, I feel much more comfortable managing the buffers in OpenGL with C++ code but for some ongoing projects, I will brush up my C# codebase as well. I will re-implement my C++ libraries in C# using OpenTK.
+Honestly, I feel much more comfortable managing the buffers in OpenGL with C++ code but for some ongoing projects, I will brush up my C# codebase for OpenGL as well. I will re-implement my C++ libraries in C# using OpenTK. Hopefully, if I can find enough space I will bring up some more repositories.
 
 ## User Interface
 I added a user interface using .NET port of Dear ImGui. Later on, I will change the sample interface and bind the UI input directly to Input Manager static class. I am also developing A WPF and WinForms, later on if I have time I can release those projects as well.
 
 ![image](https://github.com/varolomer/NewParticleSimulator/assets/42884775/81003f2e-194a-4f1d-9ae5-1f3caaa59ee6)
 
-## C++ & Buffers
-Placeholder
 ## Problems with IMGUINET
 Placeholder
 ## Keyboard & Drawing
