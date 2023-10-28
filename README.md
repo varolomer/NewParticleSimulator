@@ -1,5 +1,5 @@
 # C# OpenGL Newtonian-Particle-Simulator-Enhancement
-![newparticlesim](https://github.com/varolomer/NewParticleSimulator/assets/42884775/c3c0898f-30c5-4f5c-820f-ffc27045c11a)
+![newparticlesim](https://github.com/varolomer/NewParticleSimulator/assets/42884775/a3de15b7-d55a-4e0e-83fe-3dea44e95ad7)
 
 [Video Youtube Link](https://youtu.be/cyBUFOMkRqc?si=TUfU5eihWQGMKel0)
 
@@ -10,15 +10,15 @@ Honestly, I feel much more comfortable managing the buffers in OpenGL with C++ c
 
 ## User Interface
 I added a user interface using .NET port of Dear ImGui. Later on, I will change the sample interface and bind the UI input directly to Input Manager static class. I am also developing A WPF and WinForms, later on if I have time I can release those projects as well.
-
-![image](https://github.com/varolomer/NewParticleSimulator/assets/42884775/81003f2e-194a-4f1d-9ae5-1f3caaa59ee6)
+![image](https://github.com/varolomer/NewParticleSimulator/assets/42884775/c3cc568c-6247-4fba-8fca-0f8d35d8de80)
 
 ## Keyboard & Drawing
-When the app is in idling mode it will only draw the particles:
-![278778999-76312266-0b66-460e-8284-103a141699f5](https://github.com/varolomer/NewParticleSimulator/assets/42884775/414c9f77-d5d8-426b-b8c4-d1e9af96b52b)
+### When the app is in idling mode it will only draw the particles:
+![image](https://github.com/varolomer/NewParticleSimulator/assets/42884775/f70096f5-df69-4316-8b57-8e6e824930c3)
 
-When left shift key is pressed it will draw Lines (adj) as well:
-![TriStripsMin](https://github.com/varolomer/NewParticleSimulator/assets/42884775/f43e6576-0aee-4524-a539-ea893e6efa7a)
+### When left shift key is pressed it will draw Lines (adj) as well:
+![newparticlesim](https://github.com/varolomer/NewParticleSimulator/assets/42884775/cf30d3b5-e6ae-409b-a2a7-6f13d8a92b77)
 
-Then left ctrl key is pressed it will draw Triangle Strips (adj) instead of lines:
-![TriStripsMin2](https://github.com/varolomer/NewParticleSimulator/assets/42884775/2778893c-3a5a-46d5-9cf2-a699f4800983)
+### Then left ctrl key is pressed it will draw Triangle Strips (adj) instead of lines:
+![TriStripsMin2](https://github.com/varolomer/NewParticleSimulator/assets/42884775/912e8f35-eed1-4e98-a45b-b4c1795dbc1d)
+
